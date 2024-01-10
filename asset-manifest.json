@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolioo/static/css/main.766e4d41.css",
-    "main.js": "/portfolioo/static/js/main.8d995ab2.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfolioo/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolioo/static/js/787.1ed0c42c.chunk.js",
-    "static/media/moviedeck.png": "/portfolioo/static/media/moviedeck.51c409f81eea3488c58f.png",
-    "static/media/AmazonMusicClone.png": "/portfolioo/static/media/AmazonMusicClone.24ead0adc5cf23861e8c.png",
-    "static/media/BeyoungClone.png": "/portfolioo/static/media/BeyoungClone.4b4c2242fbd83018346c.png",
-    "static/media/pokemoncard.png": "/portfolioo/static/media/pokemoncard.b1762036a8ca0e414319.png",
-    "static/media/home-main.svg": "/portfolioo/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/portfolioo/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/mealplanner.png": "/portfolioo/static/media/mealplanner.b79769043adc3a30954b.png",
-    "static/media/Resume-Srt.pdf": "/portfolioo/static/media/Resume-Srt.db28bab0e65c6bb33406.pdf",
-    "static/media/logo.png": "/portfolioo/static/media/logo.97465e92f7b1d2040cdb.png",
-    "static/media/avatar.svg": "/portfolioo/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/portfolioo/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/portfolioo/index.html",
-    "main.766e4d41.css.map": "/portfolioo/static/css/main.766e4d41.css.map",
-    "main.8d995ab2.js.map": "/portfolioo/static/js/main.8d995ab2.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfolioo/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolioo/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/newproject%20/static/css/main.0050cf87.css",
+    "main.js": "/newproject%20/static/js/main.a793d526.js",
+    "static/js/415.4d6acbeb.chunk.js": "/newproject%20/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/newproject%20/static/js/787.1ed0c42c.chunk.js",
+    "static/media/moviedeck.png": "/newproject%20/static/media/moviedeck.51c409f81eea3488c58f.png",
+    "static/media/AmazonMusicClone.png": "/newproject%20/static/media/AmazonMusicClone.24ead0adc5cf23861e8c.png",
+    "static/media/BeyoungClone.png": "/newproject%20/static/media/BeyoungClone.4b4c2242fbd83018346c.png",
+    "static/media/pokemoncard.png": "/newproject%20/static/media/pokemoncard.b1762036a8ca0e414319.png",
+    "static/media/home-main.svg": "/newproject%20/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/newproject%20/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/mealplanner.png": "/newproject%20/static/media/mealplanner.b79769043adc3a30954b.png",
+    "static/media/Resume-Srt.pdf": "/newproject%20/static/media/Resume-Srt.db28bab0e65c6bb33406.pdf",
+    "static/media/logo.png": "/newproject%20/static/media/logo.97465e92f7b1d2040cdb.png",
+    "static/media/avatar.svg": "/newproject%20/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/newproject%20/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/newproject%20/index.html",
+    "main.0050cf87.css.map": "/newproject%20/static/css/main.0050cf87.css.map",
+    "main.a793d526.js.map": "/newproject%20/static/js/main.a793d526.js.map",
+    "415.4d6acbeb.chunk.js.map": "/newproject%20/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/newproject%20/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.766e4d41.css",
-    "static/js/main.8d995ab2.js"
+    "static/css/main.0050cf87.css",
+    "static/js/main.a793d526.js"
   ]
 }
